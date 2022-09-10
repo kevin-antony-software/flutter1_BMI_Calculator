@@ -5,7 +5,7 @@ const kActiveColor = Color(0xFF1D1E33);
 const kInactiveColor = Color(0XFF111328);
 
 const kLabelTextStyle = TextStyle(
-  fontSize: 20.0,
+  fontSize: 21.0,
   color: Color(0xFF8D8E98),
 );
 
